@@ -16,7 +16,7 @@
   "autoBackupAfterFileChange": false,
   "treeStructure": false,
   "refreshSourceControl": false,
-  "basePath": "zeraf29/",
+  "basePath": "",
   "differentIntervalCommitAndPush": false,
   "changedFilesInStatusBar": false,
   "showedMobileNotice": true,
@@ -24,7 +24,7 @@
   "showBranchStatusBar": true,
   "setLastSaveToLastCommit": false,
   "submoduleRecurseCheckout": false,
-  "gitDir": "\\Obsidian_daily_log",
+  "gitDir": "",
   "showFileMenu": true,
   "lineAuthor": {
     "show": false,
