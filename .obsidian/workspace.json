@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Study/AZ-204/Topic1 - Question Set 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Study/AZ-204/Topic1 - Question Set 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Study/AZ-204/Topic1 - Question Set 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Study/AZ-204/Topic1 - Question Set 1.md"
               }
             }
           }
@@ -148,5 +148,12 @@
     }
   },
   "active": "398ceb6179d58325",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Study/Search & Research/`applicationInitialization` configuration element in the `web.config` file.md",
+    "Study/AZ-204/Topic1 - Question Set 1.md",
+    "Study/AZ-204",
+    "README.md",
+    "Study/Search & Research/Explain Kubernetes Custom Resource De nitions (CRD) for the Azure Function..md",
+    "Study/Search & Research/Consumption plan type in azure function app service. And other plans.md"
+  ]
 }
