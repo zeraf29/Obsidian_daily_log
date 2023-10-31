@@ -45,3 +45,14 @@ Overall, the shared security model in OCI is a valuable framework for securing c
 
 
 
+a table of the shared responsibility model for OCI:
+
+|Responsibility|Oracle|Customer|
+|---|---|---|
+|Physical security of OCI data center facilities|Yes|No|
+|Virtual Machine hypervisor|Yes|No|
+|Object Storage data durability|Yes|No|
+|Customer data|No|Yes|
+|Local NVMe data persistence|No|Yes|
+
+Sheets로 내보내기
