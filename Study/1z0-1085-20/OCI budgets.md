@@ -39,3 +39,27 @@ OCI Budgets is a flexible and powerful tool that can help you to manage your OCI
 
 
 
+
+OCI Budgets can be set on **compartments** and **cost-tracking tags**.
+
+**Compartments** are a logical grouping of resources in OCI. You can use compartments to organize your resources and to manage access to your resources.
+
+**Cost-tracking tags** are custom tags that you can apply to your resources to track your spending.
+
+Tenancy, free-form tags, and Virtual Cloud Network (VCN) are not valid options for setting OCI Budgets.
+
+Here is a table of the five options and whether or not they can be used to set OCI Budgets:
+
+|Option|Can be used to set OCI Budgets?|
+|---|---|
+|Compartments|Yes|
+|Free-form tags|No|
+|Tenancy|No|
+|Cost-tracking tags|Yes|
+|Virtual Cloud Network (VCN)|No|
+
+Sheets로 내보내기
+
+
+
+
